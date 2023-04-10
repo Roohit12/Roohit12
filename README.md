@@ -4,7 +4,7 @@ Hi 👋 My name is Rohit Bisht
 Web developer
 -------------
 
-I am a mechanical engineer , I have started coding seriously from previous year 22 ,the front End UI/UX fascinate me.
+I am a mechanical engineer , I have started coding seriously from previous year 22 ,the front End UI/UX fascinates me.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bishtrohit590@gmail.com](mailto:bishtrohit590@gmail.com)
